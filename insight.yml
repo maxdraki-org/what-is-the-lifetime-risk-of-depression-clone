@@ -1,0 +1,9 @@
+name: What is the lifetime risk of depression? - clone
+description: Depression is one of the world's most common health conditions. It's estimated that one-in-three women and one-in-five men have an episode of major depression by the age of 65.
+itemType: insight
+tags:
+  - example
+metadata:
+  publishedDate: '2022-05-18'
+creation:
+  clonedFrom: local/lifetime-risk-of-depression
